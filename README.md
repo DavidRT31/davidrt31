@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bienvenid@ a mi perfil de GitHub👋
+Soy Piero Ruiz, tengo 19 años y me intereso por la programación 💻. Actualmente soy estudiante de la carrera de Ing. de Sistemas, así como participante en el programa ONE de Oracle x Alura Latam. 
 
 <!--
 **davidrt31/davidrt31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

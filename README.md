@@ -1,6 +1,6 @@
 ### Bienvenid@ a mi perfil de GitHub👋
-Soy Piero Ruiz, tengo 19 años y me intereso por la programación 💻. \n
-Actualmente soy estudiante de la carrera de Ing. de Sistemas, así como participante en el programa ONE de Oracle x Alura Latam.
+Soy Piero Ruiz, tengo 19 años y me intereso por la programación 💻.  
+Actualmente soy estudiante de la carrera de Ing. de Sistemas, así como participante en el programa ONE de Oracle x Alura Latam.  
 Siempre estoy en búsqueda de conocimiento y mejorando paso a paso 😁.
 
 <!--

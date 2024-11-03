@@ -1,7 +1,7 @@
 # Bienvenido, soy David ✌️
 
 <div align="center">
-  <img src="resources/logo.png" style="background: whitesmoke; border-top-left-radius:20%; border-bottom-right-radius:20%; padding: 5px" width="200px">
+  <img src="resources/abc.webp" width="200px">
 </div>
 
 # Habilidades

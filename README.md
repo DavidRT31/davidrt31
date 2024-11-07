@@ -34,7 +34,7 @@ Tengo una gran pasión por el diseño y la programación. Constantemente busco a
 
 <div align="center">
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrt31&show_icons=true&theme=radical&locale=es&rank_icon=github&custom_title=Estadísticas%20de%20David)
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrt31&show_icons=true&theme=radical&locale=es&rank_icon=github&custom_title=Mis%20estadísticas%20en%20GitHub)
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrt31&custom_title=Lenguajes%20utilizados&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

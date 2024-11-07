@@ -1,7 +1,7 @@
 ## Bienvenido, soy David ✌️
 
 <div align="center">
-  <img src="resources/abc.webp" width="200px">
+  <img src="resources/Elegant.webp" width="200px">
 </div>
 
 ## Habilidades

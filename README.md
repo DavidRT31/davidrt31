@@ -9,23 +9,17 @@ Tengo una gran pasión por el diseño y la programación. Constantemente busco a
 
 <div align="center">
 
-**Frontend**
+**Frontend y Backend**
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-
-**Backend**
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-000?logo=icons8-java&logoColor=white&style=for-the-badge)
 
-**Framework**
+**Framework y Diseño**
 
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
-
-**Diseño**
-
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 </div>

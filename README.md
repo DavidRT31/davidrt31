@@ -1,10 +1,10 @@
-# Bienvenido, soy David ✌️
+## Bienvenido, soy David ✌️
 
 <div align="center">
   <img src="resources/abc.webp" width="200px">
 </div>
 
-# Habilidades
+## Habilidades
 
 <dev align="center">
 

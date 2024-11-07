@@ -1,4 +1,4 @@
-# Bienvenido, soy David ✌️
+# Bienvenid@, soy David ✌️
 Tengo una gran pasión por el diseño y la programación. Constantemente busco aprender algo nuevo, sobre las tecnología emergentes o la creación de diseños atractivos. Para mí, cada línea de código es una oportunidad más para resolver problemas y aportar valor de una manera creativa y funcional.
 
 <div align="center">

@@ -41,7 +41,7 @@ Tengo una gran pasión por el diseño y la programación. Constantemente busco a
 
 <div align="center">
   
-**"El verdadero programador no es aquel que sabe todo, sino quien no teme enfrentarse a lo desconocido y seguir aprendiendo cada día."**
+***"El verdadero programador no es aquel que sabe todo, sino quien no teme enfrentarse a lo desconocido y seguir aprendiendo cada día."***
 
 </div>
 

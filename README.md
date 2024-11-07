@@ -1,13 +1,47 @@
-## Bienvenido, soy David ✌️
+# Bienvenido, soy David ✌️
+Tengo una gran pasión por el diseño y la programación. Constantemente busco aprender algo nuevo, sobre las tecnología emergentes o la creación de diseños atractivos. Para mí, cada línea de código es una oportunidad más para resolver problemas y aportar valor de una manera creativa y funcional.
 
 <div align="center">
-  <img src="resources/Elegant.webp" width="200px">
+  <img src="resources/Elegant.webp" width="250px">
 </div>
 
-## Habilidades
+## 📚 Tecnologías que estoy aprendiendo
 
-<dev align="center">
+<div align="center">
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&color=white)]()
+**Frontend**
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+
+**Backend**
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-000?logo=icons8-java&logoColor=white&style=for-the-badge)
+
+**Framework**
+
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+
+**Diseño**
+
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 </div>
+
+## 🤖 Estadísticas de Github
+
+<div align="center">
+
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrt31&show_icons=true&theme=radical&custom_title=Estadísticas%20de%20David)
+
+</div>
+
+<div align="center">
+  
+**"El verdadero programador no es aquel que sabe todo, sino quien no teme enfrentarse a lo desconocido y seguir aprendiendo cada día."**
+
+</div>
+
+

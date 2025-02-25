@@ -29,8 +29,7 @@ Tengo una gran pasión por el diseño y la programación. Constantemente busco a
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=DavidRT31&show_icons=true&theme=radical&locale=es&rank_icon=github&custom_title=Mis%20estadísticas%20en%20GitHub" alt="Mis Estadísticas en GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRT31&custom_title=Lenguajes%20utilizados&layout=donut&theme=radical" alt="Lenguajes más usados" height="170"/>
-
+  
 </div>
 
 <div align="center">
